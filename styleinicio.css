@@ -1,0 +1,21 @@
+body {
+    background-image: url('https://img.freepik.com/vetores-gratis/fundo-de-galaxia-realista_23-2148991322.jpg');
+    background-size: cover; /* Faz com que a imagem cubra toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Não repete a imagem */
+    height: 100vh;
+    margin: 0;
+    color: white; /* Altera a cor do texto para branco, para melhor contraste */
+}
+div{
+    background-color: white;
+    height: 500px;
+    width: 500px;
+}
+p{
+    color: black;
+}
+.imagem-redonda{
+    border-radius: 50%; 
+
+}
